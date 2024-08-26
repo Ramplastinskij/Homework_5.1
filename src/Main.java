@@ -64,6 +64,6 @@ public class Main {
                 arr[i] += 1;
             }
         }
-        System.out.println("Преобразованный массив: " + Arrays.toString (arr));
+        System.out.println("Преобразованный массив: " + Arrays.toString(arr));
     }
 }
